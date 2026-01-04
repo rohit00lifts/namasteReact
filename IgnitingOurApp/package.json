@@ -1,0 +1,31 @@
+{
+  "name": "ignitingourapp",
+  "version": "1.0.0",
+  "description": "This marks our entry into react",
+  "scripts": {
+    "test": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit00lifts/namasteReact.git"
+  },
+  "keywords": [
+    "react",
+    "learning",
+    "react"
+  ],
+  "author": "Rohit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit00lifts/namasteReact/issues"
+  },
+  "homepage": "https://github.com/rohit00lifts/namasteReact#readme",
+  "dependencies": {
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "browserslist":
+    ["Last 2 versions"]
+  
+}
