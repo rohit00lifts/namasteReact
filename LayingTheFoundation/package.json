@@ -1,0 +1,22 @@
+{
+  "name": "layingthefoundation",
+  "version": "1.0.0",
+  "description": "This marks our beginning of session 3 of learning react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "react",
+    "session3"
+  ],
+  "author": "Rohit Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
