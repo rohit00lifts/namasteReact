@@ -1,0 +1,20 @@
+{
+  "name": "talkischeap",
+  "version": "1.0.0",
+  "description": "This marks the beginning of us learning with the EP4 of our learning",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "keywords": [
+    "react",
+    "namasteReact"
+  ],
+  "author": "Rohit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
